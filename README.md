@@ -1,1 +1,1 @@
-# piano_em_js
+Projeto desenvolvido durante o Bootcamp Potência Tech iFood - Desenvolvimento de Jogos com o professor Felipe Aguiar. O objetivo desse projeto é desenvolver um simulador de piano totalmente funcional, utilizando apenas HTML, CSS e Javascript.
